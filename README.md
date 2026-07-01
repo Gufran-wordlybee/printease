@@ -126,7 +126,7 @@ npm -v
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Harshitjhamb/printease.git
+   git clone https://github.com/Gufran-wordlybee/printease.git
    cd printease
    ```
 
